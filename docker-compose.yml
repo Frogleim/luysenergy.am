@@ -1,0 +1,22 @@
+# docker-compose.yml
+version: '3.8'
+
+services:
+  nginx:
+    image: nginx:latest
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx/energoshin.conf:/etc/nginx/conf.d/default.conf
+    depends_on:
+      - flask
+
+  flask:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/app
+    environment:
+      FLASK_ENV: development
+    command: flask run --host=0.0.0.0

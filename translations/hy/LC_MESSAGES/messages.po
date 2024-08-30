@@ -1,0 +1,234 @@
+msgid "Welcome to Day"
+msgstr "Բարի գալուստ Day"
+
+msgid "Luys Energy CJSC"
+msgstr "Լույս Էներջի ՓԲԸ"
+
+msgid "Home"
+msgstr "Գլխավոր"
+
+msgid "About"
+msgstr "Մեր մասին"
+
+msgid "About"
+msgstr "Մեր մասին"
+
+msgid "Language"
+msgstr "Լեզու"
+
+
+
+msgid "We are a team of talented designers making websites with Bootstrap"
+msgstr "Մենք տաղանդավոր դիզայներների թիմ ենք, որոնք կայքեր են ստեղծում Bootstrap-ով"
+
+msgid "Get Started"
+msgstr "Սկսել"
+
+msgid "About Us"
+msgstr "Մեր մասին"
+
+msgid "We provide electricity supply services to leading organizations in the market throughout the entire territory of the Republic of Armenia. The extensive experience of our qualified specialists guarantees the high quality of the services we offer."
+msgstr "Մենք մատուցում ենք էլեկտրամատակարարման ծառայություններ շուկայի առաջատար կազմակերպություններին՝ ՀՀ-ի ողջ տարածքում։ Մեր որակավորված մասնագետների բազմամյա փորձը երաշխավորում է մեր կողմից մատուցվող ծառայությունների բարձր որակը։"
+
+msgid "Our Partners"
+msgstr "Մեր գործընկերներն են"
+
+
+msgid "Alpha Ltd"
+msgstr "Ալֆա ՍՊԸ"
+
+
+
+msgid "Arpa Shin Ltd"
+msgstr "Արփա Շին ՍՊԸ"
+
+msgid "BIG Ltd"
+msgstr "ԲԻԳ ՍՊԸ"
+
+
+msgid "Renkas Ltd"
+msgstr "Ռենկաս ՍՊԸ"
+
+msgid "Al Anush Ltd"
+msgstr "Ալ Անուշ ՍՊԸ"
+
+msgid "Ero Dav Ltd"
+msgstr "Էրո Դավ ՍՊԸ"
+
+msgid "Mega Energo Ltd"
+msgstr "Մեգա Էներգո ՍՊԸ"
+
+msgid "Shin Energo Montage Ltd"
+msgstr "Շին Էներգո Մոնտաժ ՍՊԸ"
+
+msgid "Masis Tobacco Ltd"
+msgstr "Մասիս Տոբակո ՍՊԸ"
+
+msgid "GG Energy Ltd"
+msgstr "ՋԻՋԻ Էներջի ՍՊԸ"
+
+msgid "Nelly-Levon Ltd"
+msgstr "Նելլի-Լևոն Ltd"
+
+
+
+
+msgid "We offer the following services"
+msgstr "Մենք մատուցում ենք հետևյալ ծառայությունները"
+
+msgid "Power Supply"
+msgstr "Էլեկտրամատակարարում"
+
+msgid "Electricity supply for public and residential buildings"
+msgstr "Հասարակական և բնակելի նշանակության շինությունների էլեկտրամատակարարում"
+
+
+msgid "Technical Service"
+msgstr "Տեխնիկական Սպասարկում"
+
+msgid "Technical maintenance, installation, construction, and reconstruction of substations"
+msgstr "Ենթակայանների տեխնիկական սպասարկում, մոնտաժ, կառուցում, վերակառուցում"
+
+
+msgid "Wiring"
+msgstr "Մոնտաժ"
+
+
+msgid "Installation, restoration, relocation, laboratory testing, and installation of electrical panels for cable lines"
+msgstr "Մալուխագածերի մոնտաժ, վերականգնում, տեղափոխում, լաբորատոր ստուգում, էլեկտրական վահանի մոնտաժում"
+
+msgid "Voluptatem dignissimos provident quasi corporis"
+msgstr "Հավանական է, որ մարմնի պատիվը մատակարարող է"
+
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+msgid "Ullamco laboris nisi ut aliquip ex ea commodo consequat."
+msgstr "Ullamco laboris nisi ut aliquip ex ea commodo consequat."
+
+msgid "Duis aute irure dolor in reprehenderit in voluptate velit."
+msgstr "Duis aute irure dolor in reprehenderit in voluptate velit."
+
+msgid "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur."
+msgstr "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur."
+
+msgid "Read More"
+msgstr "Կարդալ ավելին"
+
+msgid "Lorem Ipsum"
+msgstr "Lorem Ipsum"
+
+msgid "Ulamco laboris nisi ut aliquip ex ea commodo consequat. Et consectetur ducimus vero placeat"
+msgstr "Ulamco laboris nisi ut aliquip ex ea commodo consequat. Et consectetur ducimus vero placeat"
+
+msgid "Repellat Nihil"
+msgstr "Repellat Nihil"
+
+msgid "Dolorem est fugiat occaecati voluptate velit esse. Dicta veritatis dolor quod et vel dire leno para dest"
+msgstr "Dolorem est fugiat occaecati voluptate velit esse. Dicta veritatis dolor quod et vel dire leno para dest"
+
+msgid "Ad ad velit qui"
+msgstr "Ad ad velit qui"
+
+msgid "Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam quis"
+msgstr "Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam quis"
+
+msgid "Repellendus molestiae"
+msgstr "Repellendus molestiae"
+
+msgid "Inventore quo sint a sint rerum. Distinctio blanditiis deserunt quod soluta quod nam mider lando casa"
+msgstr "Inventore quo sint a sint rerum. Distinctio blanditiis deserunt quod soluta quod nam mider lando casa"
+
+msgid "Sapiente Magnam"
+msgstr "Sapiente Magnam"
+
+msgid "Vitae dolorem in deleniti ipsum omnis tempore voluptatem. Qui possimus est repellendus est quibusdam"
+msgstr "Vitae dolorem in deleniti ipsum omnis tempore voluptatem. Qui possimus est repellendus est quibusdam"
+
+msgid "Facilis Impedit"
+msgstr "Facilis Impedit"
+
+msgid "Quis eum numquam veniam ea voluptatibus voluptas. Excepturi aut nostrum repudiandae voluptatibus corporis sequi"
+msgstr "Quis eum numquam veniam ea voluptatibus voluptas. Excepturi aut nostrum repudiandae voluptatibus corporis sequi"
+
+msgid "Services"
+msgstr "Ծառայություններ"
+
+msgid "Call To Action"
+msgstr "Կոչ գործողության"
+
+msgid "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+msgstr "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+msgid "Contact"
+msgstr "Կապ"
+
+msgid "A.Babajanian Street 59 apt. 40, Yerevan, TIN 013043992"
+msgstr "Ա․Բաբաջանյան 59, բն 40, ք․Երևան, ՀՎՀՀ՝ 01304399"
+
+msgid "+1 5589 55488 55"
+msgstr "+1 5589 55488 55"
+
+msgid "EXPERT CENTER OF THE REPUBLIC OF ARMENIA NGO"
+msgstr "ՀԱՅԱՍՏԱՆԻ ՀԱՆՐԱՊԵՏՈՒԹՅԱՆ ՓՈՐՁԱԳԻՏԱԿԱՆ ԿԵՆՏՐՈՆ ՊՈԱԿ"
+
+msgid "info@example.com"
+msgstr "info@example.com"
+
+msgid "Your Name"
+msgstr "Ձեր անունը"
+
+msgid "Your Email"
+msgstr "Ձեր էլ. հասցեն"
+
+msgid "Subject"
+msgstr "Թեմա"
+
+msgid "Message"
+msgstr "Հաղորդագրություն"
+
+msgid "Send Message"
+msgstr "Ուղարկել հաղորդագրություն"
+
+msgid "Loading"
+msgstr "Բեռնվում է"
+
+msgid "Your message has been sent. Thank you!"
+msgstr "Ձեր հաղորդագրությունը ուղարկված է։ Շնորհակալություն։"
+
+msgid "Home"
+msgstr "Գլխավոր"
+
+msgid "About"
+msgstr "Մեր մասին"
+
+msgid "Services"
+msgstr "Ծառայություններ"
+
+msgid "Address"
+msgstr "Հասցե"
+
+msgid "Call Us"
+msgstr "Հեռ։"
+
+msgid "Email Us"
+msgstr "Գրեք մեզ"
+
+msgid "Contact"
+msgstr "Կապ"
+
+
+
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-07-19 09:45+0400\n"
+"PO-Revision-Date: 2024-07-19 09:45+0400\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: hy\n"
+"Language-Team: hy <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+

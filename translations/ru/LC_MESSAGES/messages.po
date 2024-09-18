@@ -38,7 +38,7 @@ msgid "BIG Energo Ltd"
 msgstr "БИГ Энерго ООО"
 
 msgid "Energoshin Ltd"
-msgstr "Энергошин ՍՊԸ"
+msgstr "Энергошин ООО"
 
 msgid "Renkas Ltd"
 msgstr "Ренкас ООО"

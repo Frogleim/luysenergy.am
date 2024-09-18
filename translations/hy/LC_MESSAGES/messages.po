@@ -62,8 +62,8 @@ msgid "Energoshin Ltd"
 msgstr "Էներգոշին ՍՊԸ"
 
 
-msgid "Gribayedov 58, Yerevan, TIN 02645749"
-msgstr "Գրիբայեդով 58, ՀՎՀՀ 2645749"
+msgid "Griboyedov 58, Yerevan, TIN 02645749"
+msgstr "Գրիբոյեդով 58, ՀՎՀՀ 02645749"
 
 msgid "Shin Energo Montage Ltd"
 msgstr "Շին Էներգո Մոնտաժ ՍՊԸ"

@@ -62,8 +62,8 @@ msgid "GG Energy Ltd"
 msgstr "Джи Джи Энерджи ООО"
 
 
-msgid "Gribayedov 58, Yerevan, TIN 02645749"
-msgstr "Грибаедов 58, ИНН 02645749"
+msgid "Griboyedov 58, Yerevan, TIN 02645749"
+msgstr "Грибоедов 58, ИНН 02645749"
 
 
 

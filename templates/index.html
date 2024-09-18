@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <title>{{ _('LuysEnergy') }}</title>
+    <title>{{ _('Luysenergy') }}</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 <!-- Include Bootstrap CSS -->
@@ -111,9 +111,7 @@
         <div class="branding d-flex align-items-center">
 
             <div class="container position-relative d-flex align-items-center justify-content-between">
-                <a href="index.html" class="logo d-flex align-items-center">
-                    <!-- Uncomment the line below if you also wish to use an image logo -->
-                    <!-- <img src="assets/img/logo.png" alt=""> -->
+                <a href="{{ url_for('index') }}" class="logo d-flex align-items-center">
                     <h1 class="sitename">{{ _('Luys Energy CJSC') }}</h1>
                 </a>
 

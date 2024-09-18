@@ -26,17 +26,19 @@ msgstr "Наши партнеры"
 
 
 
-msgid "Alpha Ltd"
-msgstr "Альфа ООО"
+msgid "Alpha Constuction Ltd"
+msgstr "Альфа Констракшен ООО"
 
 
 
 msgid "Arpa Shin Ltd"
 msgstr "Арпа Шин ООО"
 
-msgid "BIG Ltd"
-msgstr "БИГ ООО"
+msgid "BIG Energo Ltd"
+msgstr "БИГ Энерго ООО"
 
+msgid "Energoshin Ltd"
+msgstr "Энергошин ՍՊԸ"
 
 msgid "Renkas Ltd"
 msgstr "Ренкас ООО"
@@ -59,9 +61,9 @@ msgstr "Масис Тобако ООО"
 msgid "GG Energy Ltd"
 msgstr "Джи Джи Энерджи ООО"
 
-msgid "Nelly-Levon Ltd"
-msgstr "Нели-Левон ООО"
 
+msgid "Gribayedov 58, Yerevan, TIN 02645749"
+msgstr "Грибаедов 58, ИНН 02645749"
 
 
 

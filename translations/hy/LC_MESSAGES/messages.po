@@ -34,16 +34,16 @@ msgid "Our Partners"
 msgstr "Մեր գործընկերներն են"
 
 
-msgid "Alpha Ltd"
-msgstr "Ալֆա ՍՊԸ"
+msgid "Alpha Constuction Ltd"
+msgstr "Ալֆա Կոնստրակշն ՍՊԸ"
 
 
 
 msgid "Arpa Shin Ltd"
 msgstr "Արփա Շին ՍՊԸ"
 
-msgid "BIG Ltd"
-msgstr "ԲԻԳ ՍՊԸ"
+msgid "BIG Energo Ltd"
+msgstr "ԲԻԳ Էներգո ՍՊԸ"
 
 
 msgid "Renkas Ltd"
@@ -57,6 +57,13 @@ msgstr "Էրո Դավ ՍՊԸ"
 
 msgid "Mega Energo Ltd"
 msgstr "Մեգա Էներգո ՍՊԸ"
+
+msgid "Energoshin Ltd"
+msgstr "Էներգոշին ՍՊԸ"
+
+
+msgid "Gribayedov 58, Yerevan, TIN 02645749"
+msgstr "Գրիբայեդով 58, ՀՎՀՀ 2645749"
 
 msgid "Shin Energo Montage Ltd"
 msgstr "Շին Էներգո Մոնտաժ ՍՊԸ"
